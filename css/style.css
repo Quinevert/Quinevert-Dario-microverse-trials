@@ -1,0 +1,12 @@
+#header-img{
+  width: 70px;
+  height: 70px;
+}
+#nav-bar{
+  float:right;
+  display: flex;
+  justify-content: space-evenly;
+}
+.header{
+  display: flex;
+}
